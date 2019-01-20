@@ -39,6 +39,6 @@ const calculator = {
         
 }
 
-console.log(areaofaParallelogram(4,8))
-console.log(areaOfaRectangle(57,90))
-console.log(VolumeOfaCylinder(5,6))
+console.log(calculator.areaofaParallelogram(4,8))
+console.log(calculator.areaOfaRectangle(57,90))
+console.log(calculator.VolumeOfaCylinder(15,6))
